@@ -1,0 +1,20 @@
+# Core data / analysis
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Web scraping
+playwright
+beautifulsoup4
+
+# Pairwise ranking
+choix
+
+# NLP / deep learning
+torch
+transformers
+tqdm
+
+# Notebook environment
+jupyter
