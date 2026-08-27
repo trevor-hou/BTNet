@@ -1,0 +1,51 @@
+,name,allsides_page,bias,rating
+0,ABC News (Online),https://www.allsides.com/news-source/abc-news-media-bias,Lean Left,-1.42
+1,ACLU,https://www.allsides.com/news-source/aclu-media-bias,Lean Left,
+2,AlterNet,https://www.allsides.com/news-source/alternet-media-bias,Left,-4.50
+3,Andrew Sullivan,https://www.allsides.com/news-source/andrew-sullivan-media-bias,Center,
+4,Ann Coulter,https://www.allsides.com/news-source/ann-coulter-media-bias,Right,
+5,Associated Press,https://www.allsides.com/news-source/associated-press-media-bias,Left,-3.02
+6,Associated Press Fact Check,https://www.allsides.com/news-source/associated-press-fact-check-media-bias,Lean Left,-2.00
+7,Axios,https://www.allsides.com/news-source/axios-media-bias,Lean Left,-1.70
+8,BBC Fact Check,https://www.allsides.com/news-source/bbc-fact-check-media-bias,Center,-0.30
+9,BBC News,https://www.allsides.com/news-source/bbc-news-media-bias,Center,-0.80
+10,Ben Shapiro,https://www.allsides.com/news-source/ben-shapiro-media-bias,Right,
+11,Blaze Media,https://www.allsides.com/news-source/blaze-media-media-bias,Right,3.80
+12,Bloomberg,https://www.allsides.com/news-source/bloomberg-media-bias,Lean Left,
+13,Breitbart News,https://www.allsides.com/news-source/breitbart-news-media-bias,Right,6.00
+14,Business Insider,https://www.allsides.com/news-source/business-insider-media-bias,Lean Left,-1.46
+15,BuzzFeed News,https://www.allsides.com/news-source/buzzfeed-news-media-bias,Left,-4.00
+16,CBN,https://www.allsides.com/news-source/cbn,Right,4.00
+17,CBS News (Online),https://www.allsides.com/news-source/cbs-news-online-media-bias,Lean Left,-1.69
+18,Christian Science Monitor,https://www.allsides.com/news-source/christian-science-monitor-media-bias,Center,-0.30
+19,CNBC,https://www.allsides.com/news-source/cnbc-media-bias,Lean Left,-1.22
+20,CNN Digital,https://www.allsides.com/news-source/cnn-media-bias,Lean Left,-1.30
+21,CNN Fact Check,https://www.allsides.com/news-source/cnn-fact-check-media-bias,Left,-4.00
+22,Daily Beast,https://www.allsides.com/news-source/daily-beast-media-bias,Left,-4.63
+23,Daily Mail,https://www.allsides.com/news-source/daily-mail-media-bias,Lean Right,1.48
+24,Democracy Now!,https://www.allsides.com/news-source/democracy-now-media-bias,Left,-4.00
+25,Ezra Klein,https://www.allsides.com/news-source/ezra-klein-media-bias,Left,
+26,FactCheck.org,https://www.allsides.com/news-source/factcheckorg-media-bias,Lean Left,-1.60
+27,Forbes,https://www.allsides.com/news-source/forbes-media-bias,Center,-0.50
+28,Forgotten Fact Checks (National Review),https://www.allsides.com/news-source/forgotten-fact-checks-national-review-media-bias,Right,4.10
+29,Fox Business,https://www.allsides.com/news-source/fox-business-media-bias,Lean Right,2.74
+30,Fox News (Opinion),https://www.allsides.com/news-source/fox-news-opinion-media-bias,Right,4.00
+31,Fox News Digital,https://www.allsides.com/news-source/fox-news-media-bias,Right,
+32,HuffPost,https://www.allsides.com/news-source/huffpost-media-bias,Left,-4.30
+33,Independent Journal Review,https://www.allsides.com/news-source/independent-journal-review-media-bias,Right,4.10
+34,Jacobin,https://www.allsides.com/news-source/jacobin-media-bias,Left,-4.00
+35,Just The News,https://www.allsides.com/news-source/just-news-media-bias,Lean Right,1.60
+36,MarketWatch,https://www.allsides.com/news-source/marketwatch-media-bias,Center,-0.30
+37,Mother Jones,https://www.allsides.com/news-source/mother-jones-media-bias,Left,
+38,MS NOW,https://www.allsides.com/news-source/ms-now-media-bias,Left,-5.08
+39,National Review (News),https://www.allsides.com/news-source/national-review-news-media-bias,Lean Right,2.50
+40,National Review (Opinion),https://www.allsides.com/news-source/national-review-opinion-media-bias,Right,3.60
+41,NBC News Digital,https://www.allsides.com/news-source/nbc-news-media-bias,Lean Left,-1.80
+42,New York Post (News),https://www.allsides.com/news-source/new-york-post-news-media-bias,Lean Right,2.93
+43,New York Post (Opinion),https://www.allsides.com/news-source/new-york-post-opinion-media-bias,Right,4.00
+44,New York Times (News),https://www.allsides.com/news-source/new-york-times-news-media-bias,Lean Left,-2.20
+45,New York Times (Opinion),https://www.allsides.com/news-source/new-york-times-opinion-media-bias,Left,-3.03
+46,Newsmax (News),https://www.allsides.com/news-source/newsmax,Right,3.05
+47,Newsmax (Opinion),https://www.allsides.com/news-source/newsmax-opinion-media-bias,Right,3.50
+48,NewsNation,https://www.allsides.com/news-source/newsnation-media-bias,Center,0.21
+49,Newsweek,https://www.allsides.com/news-source/newsweek-media-bias,Center,-0.63
